@@ -1,0 +1,5 @@
+resolver: lts-24.8
+
+packages:
+- .
+#allow-newer: true
